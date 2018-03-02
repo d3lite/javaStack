@@ -1,0 +1,50 @@
+// main method
+/**
+ *This is the stack assignment, The main method will call all the methods in
+ * the stack class to perform its duty The main method will also initialize
+ * Strings with an explicit array The software should work no matter how many string is in the array
+ */
+
+// similar to linkedlist you can declare a new stack
+// create an array of richest people in the world
+// create a for loop to print the array of people
+// now check to see if the stack is empty
+
+// use the for loop to push the array into the stack
+// check for emptiness 
+// check the size
+// peek at the stack to see whos on top of it
+
+// create a new array (call it whatever you want)
+// create another for loop to pop the stack into the new array
+
+//**************************************************************************//
+// stack class
+
+/** This stack class has a stack pointer and the size of the stack. This stack has methods to:
+ * Push a new element onto a stack
+ * Pop an element off the stack and return the data in the element
+ * Print a list of the data in the stack
+ * Return the current size of stack
+ */
+
+// have properties such as top of the list and count
+// have to an empty stack method
+// a method to find the size of the stack 
+// create a push method 
+ /* this method pushes a new element onto a stack
+   *this method should put data onto the stack, which means it must first put thedata in a stack element
+   */
+//create a pop method
+ /* this method pop an element off the stack and return the data in the element
+     * this method uses a temp variable to get the data from the list
+     */
+// create a peek method
+ /* This method returns the items most recently added to the stack
+    *  Throws an exception if theres no such items exist 
+    */
+// print the stack
+
+//****************************************************************************//
+// stackElement class
+// create constructors, get and set methods for the data and the stackElement next
